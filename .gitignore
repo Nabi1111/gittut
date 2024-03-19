@@ -1,0 +1,4 @@
+error.log
+dir/
+*.log
+it will hide all .log file
